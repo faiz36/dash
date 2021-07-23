@@ -1,0 +1,6 @@
+---
+name: dash
+version: 0.0.1
+main: faiz\dash\Main
+api: 3.22.0
+...
